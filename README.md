@@ -1370,6 +1370,7 @@ AWS deployment tool.<br>
 ##### :black_small_square: Labs (ethical hacking platforms/trainings/CTFs)
 
 <p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cybertalents.com/"><b>CyberTalents</b></a> - CyberTalents is a platform that ranks cyber security professionals across the globe by running capture the flag competitions in order to get hired by recruiters.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.offensive-security.com/"><b>Offensive Security</b></a> - true performance-based penetration testing training for over a decade.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthebox.eu/"><b>Hack The Box</b></a> - online platform allowing you to test your penetration testing skills.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hacking-lab.com/index.html"><b>Hacking-Lab</b></a> - online ethical hacking, computer network and security challenge platform.<br>
